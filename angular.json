@@ -51,6 +51,7 @@
               "src/assets"
             ],
             "styles": [
+              "./node_modules/@angular/material/prebuilt-themes/indigo-pink.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -104,6 +105,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-pdf-generator"
+    }
+  },
+  "defaultProject": "angular-pdf-generator",
+  "cli": {
+    "analytics": "ac7be7ce-4cc0-45b0-9313-f4eca9762023"
+  }
 }
